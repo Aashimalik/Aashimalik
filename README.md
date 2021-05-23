@@ -3,9 +3,9 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayesha-malik-02508a128/)
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aashimalik)
 
-### My Tech Toolbox 🧰
+## 🧰 Ayesha's Tech Toolbox 
 
-<p align="left">
+<p align="left" margin="15px 0">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="50"/>
 <img src="https://camo.githubusercontent.com/ab747b62af88eb4ec43eade4e68bdf8a4983381203d654a76c974cddfaca0814/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3931392f3931393833312e737667" alt="sass" height="50"/> 
@@ -28,6 +28,10 @@
  
 </p>
 
+<h2>✈️ Ayesha's Github Stats:</h2>
+
+![Ayesha Malik's Github Stats](https://github-readme-stats.vercel.app/api?username=Aashimalik&theme=flagindia&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
+![Ayesha Malik's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashimalik&theme=default_repocard&langs_count=10&layout=compact&hide=makefile,ruby,shell,java,objective-c)
 <!--
 **Aashimalik/Aashimalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
