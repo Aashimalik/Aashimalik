@@ -11,6 +11,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React.j
 - 🌱 &nbsp; I’m currently learning Go.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Aashimalik/Aashimalik/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅  I love to draw and paint 👩🏻‍🎨
+- 😄 &nbsp;Pronouns: She / Her
 - 📫 &nbsp; How to reach me: ayeshamalik8751@gmail.com.
 
 ### My Absolute Favorites:
