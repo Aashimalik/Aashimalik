@@ -1,4 +1,7 @@
-### Hi there 👋
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ayesha Malik](https://www.linkedin.com/in/ayesha-malik-02508a128/)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aashimalik28)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayesha-malik-02508a128/)
+[<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aashimalik)
 
 <!--
 **Aashimalik/Aashimalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
