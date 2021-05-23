@@ -3,6 +3,23 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayesha-malik-02508a128/)
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aashimalik)
 
+I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React.js, Next.js, Node, Deno)💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, TypeScript etc.
+- 🌱 &nbsp; I’m currently learning Go.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/Aashimalik/Aashimalik/issues/)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅  I love to draw and paint 👩🏻‍🎨
+- 📫 &nbsp; How to reach me: ayeshamalik8751@gmail.com.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Travelling, Meetups & tech events.
+
+
 ## 🧰 Ayesha's Tech Toolbox 
 
 <p align="left" margin="15px 0">
@@ -24,7 +41,7 @@
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="50" height="50"/>
 <img src="https://camo.githubusercontent.com/1708ce976581ff41a169dc4d3161d41b91900ca2ea48db4950db36f9f45932af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" alt="visual studio" width="50" height="50"/>
- 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" height="50", width="50">
  
 </p>
 
