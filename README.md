@@ -29,7 +29,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React.j
 <img src="https://camo.githubusercontent.com/ab747b62af88eb4ec43eade4e68bdf8a4983381203d654a76c974cddfaca0814/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3931392f3931393833312e737667" alt="sass" height="50"/> 
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javaScript" width="50" height="50"/> 
 <img src="https://camo.githubusercontent.com/80ff2a9d9c0ad2d107786fbecb49d7d1109dd9e72b2b58c144326c5fc95b6ffa/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3534312f3534313530302e737667" alt="typeScript" width="50" height="50" />
-<img src="https://camo.githubusercontent.com/dbe670ecea36b59366b09cb0f6530898d02409129b1663be0ff31e753a527e07/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61372f52656163742d69636f6e2e737667" alt="react" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 <img src="https://camo.githubusercontent.com/0e620098c29671ceebe9dd8e6ebb1cabc0d568eb0d7921f88a8558ed227f48d8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34392f52656475782e706e67" alt="Redux" width="50" height="50"/>
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/angular-128.png" alt="angular" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.svg" alt="webpack" width="50" height="50"/>
