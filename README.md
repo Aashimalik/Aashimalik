@@ -1,14 +1,17 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ayesha Malik](https://www.linkedin.com/in/ayesha-malik-02508a128/)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aashimalik28)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayesha-malik-02508a128/)
-[<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aashimalik)
+<h1 align="center"> Hi there 👋 </h1>
+<p align="center">I'm Ayesha Malik, a Full-Stack developer with a passion for working with JavaScript and TypeScript. I enjoy exploring new technologies and finding ways to use them to solve real-world problems ✨. In addition to my technical skills, I also love to guide and mentor newbies 👨🏻‍💻. </p>
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React.js, Next.js, Node, Deno)💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 
+<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Aashimalik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/aashimalik28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/aashi-malik/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@aashimalik" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, TypeScript, Next.js etc.
-- 🌱 &nbsp; I’m currently learning Python.
+- 🌱 &nbsp; I’m currently learning GoLang.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Aashimalik/Aashimalik/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅  I love to draw and paint 👩🏻‍🎨
 - 😄 &nbsp;Pronouns: She / Her
@@ -16,7 +19,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React.j
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love ❤️ Anime.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Travelling, Meetups & tech events.
 
