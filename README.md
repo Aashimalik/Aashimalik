@@ -34,7 +34,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
- 
+  <img alt="Cypress" src="https://img.shields.io/badge/-cypress-17202C?style=flat-square&logo=Cypress&logoColor=white" />
 </p>
 
 
