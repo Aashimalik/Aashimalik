@@ -35,6 +35,7 @@
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-17202C?style=flat-square&logo=Cypress&logoColor=white" />
+  <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
 </p>
 
 
